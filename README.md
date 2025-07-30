@@ -1,2 +1,8 @@
 # MoodMirror
-Converts 7 days of journaling into a unique mood painting based off your week.
+Introducing MoodMirror — a gentle mood tracker that transforms your week of emotions into a dreamy AI painting 🎨
+Mental health tools often feel clinical or overwhelming. I wanted to build something softer — something that quietly listens, never judges, and even adds a little magic. 
+With MoodMirror:
+ ✅ You journal one line a day and choose your mood
+ 🧠 After 7 entries, it summarizes how your week felt
+ 🎨 Then it creates a custom AI painting inspired by your emotions
+ 🎮 A stress hub with games and relaxing videos is available to relieve your mental fatigue.
